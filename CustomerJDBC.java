@@ -1,0 +1,4 @@
+class CustomerJDBC
+{
+	Connection con;
+}
