@@ -1,4 +1,0 @@
-class CustomerJDBC
-{
-	Connection con;
-}
