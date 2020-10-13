@@ -1,5 +1,5 @@
 @Rest
 class Customer
 {
-	
+	@RestBranch
 }
